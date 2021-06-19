@@ -11,3 +11,59 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hed{
+  width: 900px !important;
+}
+.colu{
+  background-color:  #FEEE00 !important;
+}
+.ex{
+  position: relative;
+  top: 80%;
+  right: 30px;
+}
+.mega{
+  background-color: #FFFEDB;
+}
+.mar{
+  margin-left: 60px;
+}
+.pad{
+  padding-bottom: 60px;
+}
+.mmar{
+  margin-left: 60px;
+}
+.i1{
+  margin-left: 25px;
+}
+.heading{
+  margin-left: 30px;
+}
+.exclu{
+  margin-left: 60px;
+}
+.gif{
+  padding: 20px;
+  margin-left: 30px;
+}
+.gif2{
+  margin-left: 30px;
+  margin-top: 50px;
+
+}
+.crd{
+  margin-top: 40px;
+  margin-left: 60px;
+}
+.marg{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.foot{
+  margin-top: 50px;
+}
+.main-footer-div{
+  background-color: #F7F7FA;
+  padding: 10px;
+}
